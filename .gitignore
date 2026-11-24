@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.idea/
+database.db
+instance/
+# Additional protection
+venv/
+.env.*
+!.env.example
+*.db
+*.sqlite
+*.sqlite3
+*.log
+.pytest_cache/
